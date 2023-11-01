@@ -1,4 +1,4 @@
-<!--MODELO DO SISTEMA SAU-->
+<!--MODELO DE CABEÇALHO E NAV DO SISTEMA SAU-->
   
 <header>
         <nav class="navbar navbar-expand-lg bg-body-secondary mb-1">
@@ -33,7 +33,8 @@
             </div>
         </div>
     </header>
-          
+
+    <!--MODELO DE MENU DENTRO DA PARTIAL-->
     <partial name="_MenuLateral.cshtml" />
 
  <div class="itemMenuLateral mx-sm-2">
